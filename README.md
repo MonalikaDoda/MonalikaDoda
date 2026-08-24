@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer • Biomedical Engineer • Building at the intersection of code and healthcare</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MonalikaDoda&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 🎓 Final-year **B.Tech Biomedical Engineering** student at SRM University, Delhi-NCR (CGPA 8.9)
 - 💻 Full-Stack Developer working primarily with the **MERN stack** (MongoDB, Express.js, React, Node.js)
-- 🩺 Interested in building tools where software meets healthcare — from AI-assisted diagnostics to hospital resource management
+- 🩺 Interested in building tools where software meets healthcare : from AI-assisted diagnostics to hospital resource management
 - 🚀 Currently building and shipping full-stack projects end-to-end: frontend, backend, database, and deployment
 - 📚 Learning **Java + Spring Boot** and sharpening **DSA** fundamentals (arrays, binary search, and beyond)
 - 🎯 Actively seeking **Full-Stack Development internships**
@@ -22,17 +22,17 @@
 
 **Frontend**
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,ejs" />
 </p>
 
 **Backend**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" /> &nbsp; <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
 </p>
 
 **Database**
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 **Learning**
@@ -42,29 +42,29 @@
 
 **Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,npm" />
 </p>
 
 ---
 
 ### 🚀 Featured Projects
 
-**[OryzaAI](#)** — MERN + Gemini API-powered chat application, deployed on Railway with a two-service architecture.
+**[OryzaAI](https://github.com/MonalikaDoda/OryzaAI)** — A full-stack MERN chat application integrated with the Gemini API, deployed on Railway across a two-service architecture (separate frontend and backend services).
 
-**[StayVerse](#)** — Airbnb-inspired property listing platform with server-side rendering (EJS) and MongoDB Atlas.
+**[StayVerse](https://github.com/MonalikaDoda/StayVerse)** — An Airbnb-inspired property listing platform built with server-side rendering (EJS) and MongoDB Atlas, handling listings, search, and property details end-to-end.
 
-**Smart Disease Predictor** — A biomedical AI application built with Google Colab and Streamlit that predicts disease risk from patient data, combining a biomedical engineering foundation with applied machine learning.
+**[Smart Disease Predictor](https://github.com/MonalikaDoda/Smart-Disease-Predictor)** — Deep learning models (TensorFlow) classifying six disease categories from medical images — brain tumor, pneumonia/COVID-19, lung cancer, tuberculosis, eye disease, breast cancer — achieving 90%+ accuracy, deployed via Hugging Face Hub with a Streamlit interface.
 
 ---
 
 ### 📫 Connect with Me
 
 <p>
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="monalikadoda24@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/monalikadoda/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:monalikadoda24@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 <p>
 <a href="https://leetcode.com/monalikadoda"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.naukri.com/code360/profile/YOUR-USERNAME"><img src="https://img.shields.io/badge/Code360-6C47FF?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://www.naukri.com/code360/profile/MonalikaDoda"><img src="https://img.shields.io/badge/Code360-6C47FF?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </p>
