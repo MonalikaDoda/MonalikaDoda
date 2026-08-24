@@ -27,7 +27,7 @@
 
 **Backend**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" /> &nbsp; <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 **Database**
