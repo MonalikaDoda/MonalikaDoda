@@ -49,11 +49,11 @@
 
 ### 🚀 Featured Projects
 
-**[OryzaAI](https://github.com/MonalikaDoda/OryzaAI)** — A full-stack MERN chat application integrated with the Gemini API, deployed on Railway across a two-service architecture (separate frontend and backend services).
+**[OryzaAI](https://oryzaai-1.onrender.com/)** — A full-stack MERN chat application integrated with the Gemini API, deployed on Railway across a two-service architecture (separate frontend and backend services).
 
-**[StayVerse](https://github.com/MonalikaDoda/StayVerse)** — An Airbnb-inspired property listing platform built with server-side rendering (EJS) and MongoDB Atlas, handling listings, search, and property details end-to-end.
+**[StayVerse](https://stayverse-oo3k.onrender.com/)** — An Airbnb-inspired property listing platform built with server-side rendering (EJS) and MongoDB Atlas, handling listings, search, and property details end-to-end.
 
-**[Smart Disease Predictor](https://github.com/MonalikaDoda/Smart-Disease-Predictor)** — Deep learning models (TensorFlow) classifying six disease categories from medical images — brain tumor, pneumonia/COVID-19, lung cancer, tuberculosis, eye disease, breast cancer — achieving 90%+ accuracy, deployed via Hugging Face Hub with a Streamlit interface.
+**[Smart Disease Predictor](https://ai-powered-smart-disease-predictor.streamlit.app/)** — Deep learning models (TensorFlow) classifying six disease categories from medical images — brain tumor, pneumonia/COVID-19, lung cancer, tuberculosis, eye disease, breast cancer — achieving 90%+ accuracy, deployed via Hugging Face Hub with a Streamlit interface.
 
 ---
 
