@@ -11,8 +11,8 @@
 
 - 🎓 Final-year **B.Tech Biomedical Engineering** student at SRM University, Delhi-NCR (CGPA 8.9)
 - 💻 Full-Stack Developer working primarily with the **MERN stack** (MongoDB, Express.js, React, Node.js)
-- 🩺 Interested in building tools where software meets healthcare : from AI-assisted diagnostics to hospital resource management
-- 🚀 Currently building and shipping full-stack projects end-to-end: frontend, backend, database, and deployment
+- 🩺 Interested in building tools where software meets healthcare : from AI-assisted diagnostics to healthcare digital twins
+- 🚀 Building and shipping projects end-to-end: frontend, backend, database, and deployment
 - 📚 Learning **Java + Spring Boot** and sharpening **DSA** fundamentals (arrays, binary search, and beyond)
 - 🎯 Actively seeking **Full-Stack Development internships**
 
@@ -35,6 +35,11 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
+**AI / ML & Data**
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
 **Learning**
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring" />
@@ -49,11 +54,13 @@
 
 ### 🚀 Featured Projects
 
-**[OryzaAI](https://oryzaai-1.onrender.com/)** — A full-stack MERN chat application integrated with the Gemini API, deployed on Railway across a two-service architecture (separate frontend and backend services).
+**[HydroSense](https://github.com/MonalikaDoda/hydrosense)** ([Live Demo](https://d348efecbg3b7i.cloudfront.net/)) — A serverless flood-risk platform for Delhi's underpasses, built with a team of four at Bharat Builds Delhi (AWS x WeMakeDevs). Features a 16-hotspot risk map with "why this alert?" explanations, a rainfall-based risk engine, historical flood data with storm replay, community reports, AI photo advisories via Amazon Bedrock, and an Arduino water-level sensor prototype.
 
-**[StayVerse](https://stayverse-oo3k.onrender.com/)** — An Airbnb-inspired property listing platform built with server-side rendering (EJS) and MongoDB Atlas, handling listings, search, and property details end-to-end.
+**[ClearLab](https://github.com/MonalikaDoda/ClearLab)** ([Live Demo](https://clearlab1.onrender.com/)) — An AI-assisted billing assistant for diagnostic labs (MERN). Auto-generates invoices, tracks payments and drafts payment reminders, with an AI fallback chain (OpenRouter, then Gemini) and server-side payment validation.
 
-**[Smart Disease Predictor](https://ai-powered-smart-disease-predictor.streamlit.app/)** — Deep learning models (TensorFlow) classifying six disease categories from medical images — brain tumor, pneumonia/COVID-19, lung cancer, tuberculosis, eye disease, breast cancer — achieving 90%+ accuracy, deployed via Hugging Face Hub with a Streamlit interface.
+**[Discord Bot & Admin Dashboard](https://github.com/MonalikaDoda/discord-bot)** ([Live Demo](https://discord-bot-4ern.onrender.com)) — A Discord bot with Ed25519 request verification, Gemini-powered report summarisation and urgency tagging, and a session-authenticated admin dashboard.
+
+**[Smart Disease Predictor](https://github.com/MonalikaDoda/Smart-Disease-Predictor)** ([Live Demo](https://ai-powered-smart-disease-predictor.streamlit.app/)) — Six custom CNNs (TensorFlow) classifying brain tumor, pneumonia/COVID-19, lung cancer, tuberculosis, eye disease and breast cancer from medical images, with 80–98% validation accuracy. Deployed via Hugging Face Hub and Streamlit.
 
 ---
 
